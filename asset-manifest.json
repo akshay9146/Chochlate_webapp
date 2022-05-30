@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Chochlate_webapp/static/css/main.e6c13ad2.css",
+    "main.js": "/Chochlate_webapp/static/js/main.6bc81aa4.js",
+    "static/js/787.d1f385c2.chunk.js": "/Chochlate_webapp/static/js/787.d1f385c2.chunk.js",
+    "static/media/choc.jpg": "/Chochlate_webapp/static/media/choc.cbc61da5b464aad4ee1f.jpg",
+    "static/media/silk.jpg": "/Chochlate_webapp/static/media/silk.a86778b7de7cf8bb26c2.jpg",
+    "static/media/oreo.jpg": "/Chochlate_webapp/static/media/oreo.9184c3108a27cbe2cd76.jpg",
+    "static/media/bubbly.jpg": "/Chochlate_webapp/static/media/bubbly.6794b14b15d1abc5bfae.jpg",
+    "index.html": "/Chochlate_webapp/index.html",
+    "main.e6c13ad2.css.map": "/Chochlate_webapp/static/css/main.e6c13ad2.css.map",
+    "main.6bc81aa4.js.map": "/Chochlate_webapp/static/js/main.6bc81aa4.js.map",
+    "787.d1f385c2.chunk.js.map": "/Chochlate_webapp/static/js/787.d1f385c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6bc81aa4.js"
+  ]
+}
